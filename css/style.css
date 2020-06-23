@@ -95,11 +95,11 @@ button:focus {
 .mt-25 {
   margin-top: 25px; }
 
-@media (min-width: 1200px) {
+@media  (min-width: 1025px) and (max-width: 1280px) {
   .container {
     max-width: 1170px; } }
 
-@media (min-width: 1620px) {
+@media (min-width: 1025px){
   .box_1620 {
     max-width: 1620px;
     margin: auto;
